@@ -40,11 +40,11 @@ What can help increase Twitch viewership?
 
 ## Our data scraper
 
-Thanks to the [Twitch API for python](https://github.com/Teekeks/pyTwitchAPI), we were able to code a script to scrape data from Twitch in order to start our data analysis. Initially, [our first scraper](./twitch_api.py) used to only scrape top 100 streams which was not meaningful as it does not help the lower less established streamers based on our problem that we formulated. We then decided to design another script to scrape data from the top 100 streams every 25 pages of stream which also did not work as the data became too skewed to the streamers with low view count. Hence, [our new scraper](./new_scraper.py) samples the top 25 streams of each page up to first 100 pages. This is able to give us a sample of the first 100 pages of streams which thus allows us to see a fuller picture as compared to the previous scrapers
+Thanks to the [Twitch API for python](https://github.com/Teekeks/pyTwitchAPI), we were able to code a script to scrape data from Twitch in order to start our data analysis. Initially, [our first scraper](./twitch_api.py) used to only scrape top 100 streams which was not meaningful as it does not help the lower less established streamers based on our problem that we formulated. We then decided to design another script to scrape data from the top 100 streams every 25 pages of stream which also did not work as the data became too skewed to the streamers with low view count. Hence, [our new scraper](./twitch_api_final_script.py) samples the top 25 streams of each page up to first 100 pages. This is able to give us a sample of the first 100 pages of streams which thus allows us to see a fuller picture as compared to the previous scrapers
 
 ## Our data
 
-The data that are useful in the scraped data are as follows:
+The [data](./test_data2.csv) that are useful in the scraped data are as follows:
 
 | Variables | Description |
 | --- | --- |
@@ -58,6 +58,9 @@ The data that are useful in the scraped data are as follows:
 | Title | Title of the stream |
 
 ## Our Jupyter Notebook
+Inside our final [Jupyter Notebook](./TWITCH_SERIOUS.ipynb), we have detailed our data analysis process and the conclusions that we have drawn from it. Please take a look if you are interested.
+
+# Thank you for reading!
 
 
 
