@@ -1,17 +1,42 @@
-# SC1015proj
+# SC1015 SCSE 21/22 Semester 2 Mini-Project
 
-## SCSE 21/22 Semester 2
+## About
 
-### SC1015 Mini Project created by Valencino Tan, Tan Jing Han & Ronald Tan
-
+This is a SC1015 mini project which focuses on Twitch, a game streaming platform for everyone.
 
 **Navigation**
 
+To understand the project in-depth, you may want to look at the source code as linked below: 
+  - [new_scraper.py - Python code used to scrape data from Twitch](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data-scraper)
+  - [test_data2.csv - Data collected from Twitch API](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data)
   - [Twitch_SERIOUS.ipynb - Codes with Exploratory Data Analysis & Machine Learning Models](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-jupyter-notebook)
 
-  - [test_data2.csv - Data collected from Twitch API](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data)
+## Contributors
+  - @harpervin - Tan Jing Han
+  - @MoriyaHiroshi - Ronald Tan
+  - @whysilon - Valencino Tan
 
-  - [new_scraper.py - Python code used to scrape data from Twitch](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data-scraper)
+## Problem Definition
+What can help increase Twitch viewership?
+
+## Models Used
+  - Linear Regression
+  - Decision Tree Classifier
+  - Random Forest
+
+## Conclusion
+  - Relationship of the numeric data is not strong. 
+  - Most of the data points congregate towards the lower spectrum of Twitch.
+  - Streaming niche games can help to bring viewership.
+  - Adding emojis may help to bring incremental improvement to viewership
+  - There are significant non-English speaking audiences on Twitch, reaching out to these groups could be beneficial.
+
+## What did we learn
+  - Random Forest modelling
+  - API usage
+  - Learning how to process titles to find emojis
+  - Mean Decrease in Impurity to determine importance of features
+  - Github features like this Readme and how to collaboration
 
 ## Our data scraper
 
