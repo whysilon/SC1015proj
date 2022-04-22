@@ -7,7 +7,7 @@ This is a SC1015 mini project which focuses on Twitch, a game streaming platform
 **Navigation**
 
 To understand the project in-depth, you may want to look at the source code as linked below: 
-  - [new_scraper.py - Python code used to scrape data from Twitch](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data-scraper)
+  - [twitch_api_final_script.py - Python code used to scrape data from Twitch](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data-scraper)
   - [test_data2.csv - Data collected from Twitch API](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-data)
   - [Twitch_SERIOUS.ipynb - Codes with Exploratory Data Analysis & Machine Learning Models](https://github.com/whysilon/SC1015proj/edit/main/README.md#our-jupyter-notebook)
 
