@@ -58,7 +58,7 @@ The [data](./test_data2.csv) that are useful in the scraped data are as follows:
 | Title | Title of the stream |
 
 ## Our Jupyter Notebook
-Inside our final [Jupyter Notebook](./TWITCH_SERIOUS.ipynb), we have detailed our data analysis process and the conclusions that we have drawn from it. Please take a look if you are interested.
+Inside our final [Jupyter Notebook](./Twitch_SERIOUS.ipynb), we have detailed our data analysis process and the conclusions that we have drawn from it. Please take a look if you are interested.
 
 # Thank you for reading!
 
