@@ -52,7 +52,7 @@ The [data](./twitch_data/test_data2.csv) that are useful in the scraped data are
 | total_views | Total views of all videos on channel, including after the stream has ended |
 | follow_count | Number of followers for the particular channel|
 | is_mature | Whether the stream is mature or not |
-| Tags | Descriptors to classify streams (?) |
+| Tags | Descriptors to classify streams |
 | Language | Language of the stream |
 | game_name | Name of the game that the channel is streaming |
 | Title | Title of the stream |
