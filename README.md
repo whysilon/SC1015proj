@@ -68,4 +68,4 @@ Inside our final [Jupyter Notebook](./Twitch_SERIOUS.ipynb), we have detailed ou
   - https://pytwitchapi.readthedocs.io/en/v2.5.3/
   - https://dev.twitch.tv/docs/api/reference/
   - https://github.com/Teekeks/pyTwitchAPI
-
+  - https://pypi.org/project/emoji/
